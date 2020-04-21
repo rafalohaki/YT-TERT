@@ -1,4 +1,6 @@
-import os
+#!/usr/local/bin/python
+# -*- coding: utf-8 -*-
+import os, sys
 import random
 import string
 import threading
